@@ -1,2 +1,2 @@
 scikit-learn==1.6.1
-pickle-mixin
+pickle-mixin==1.0.2
